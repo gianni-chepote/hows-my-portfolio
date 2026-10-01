@@ -201,6 +201,10 @@ header[data-testid="stHeader"] {{ background: transparent; }}
   line-height: 1.08; letter-spacing: -.02em; margin: 0 0 .75rem;
 }}
 .hmp-hero p {{ color: var(--hmp-ink-2); font-size: 1.1rem; max-width: 40rem; margin: 0 auto; }}
+.hmp-byline {{ color: var(--hmp-muted); font-size: .88rem; margin-top: 1rem; }}
+.hmp-byline b {{ color: var(--hmp-ink); font-weight: 600; }}
+.hmp-byline a, .hmp-footer a {{ color: inherit; text-decoration: underline; text-underline-offset: 2px; }}
+.hmp-byline a:hover, .hmp-footer a:hover {{ color: var(--hmp-ink); }}
 
 /* Section headings */
 .hmp-h2 {{ color: var(--hmp-ink); font-weight: 700; font-size: 1.6rem; margin: 2.5rem 0 .25rem; }}

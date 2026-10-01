@@ -1,5 +1,7 @@
 # How's My Portfolio?
 
+By **Gianni Chepote** · [GitHub](https://github.com/gianni-chepote)
+
 **What are you actually exposed to?** Seven tickers rarely mean seven
 independent bets. SPY and VOO hold the same 500 companies, QQQ adds more of
 the same tech names, and a direct AAPL position stacks on top of the AAPL

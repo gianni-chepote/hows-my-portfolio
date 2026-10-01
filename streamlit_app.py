@@ -97,6 +97,8 @@ st.markdown(
   <h1>What are you actually<br>exposed to?</h1>
   <p>Different tickers can hold the same companies, the same sectors, or move together.
   Enter your holdings to see the exposure underneath.</p>
+  <div class="hmp-byline">By <b>Gianni Chepote</b> · <a href="https://github.com/gianni-chepote" target="_blank">GitHub</a>
+  · <a href="https://github.com/gianni-chepote/hows-my-portfolio" target="_blank">Source code</a></div>
 </div>
 """,
     unsafe_allow_html=True,
@@ -334,7 +336,8 @@ st.markdown(
 <div class="hmp-footer">
 Data: Yahoo Finance via yfinance. Prices are the last available, not live. Fund look-through uses each
 fund's reported sector weights and top 10 holdings.<br>
-Descriptive only: this page does not recommend buying or selling anything.
+Descriptive only: this page does not recommend buying or selling anything.<br>
+Built by <a href="https://github.com/gianni-chepote" target="_blank">Gianni Chepote</a>.
 </div>
 """,
     unsafe_allow_html=True,
