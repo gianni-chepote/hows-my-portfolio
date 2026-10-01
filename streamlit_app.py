@@ -298,7 +298,7 @@ with right, st.container(key="panel-pairs"):
         if pairs[0][2] >= 0.95:
             st.markdown(
                 f'<div class="hmp-callout" style="margin-top:1rem"><b>{pairs[0][0]}</b> and <b>{pairs[0][1]}</b> '
-                "moved almost identically: as a source of diversification, they count close to once.</div>",
+                "moved almost identically.</div>",
                 unsafe_allow_html=True,
             )
     else:
