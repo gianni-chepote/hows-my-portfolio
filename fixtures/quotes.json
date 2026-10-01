@@ -1,0 +1,200 @@
+{
+  "SPY": {
+    "quoteType": "ETF",
+    "shortName": "State Street SPDR S&P 500 ETF T",
+    "longName": "State Street SPDR S&P 500 ETF Trust",
+    "regularMarketPrice": 764.2,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Large Blend"
+  },
+  "VOO": {
+    "quoteType": "ETF",
+    "shortName": "Vanguard S&P 500 ETF",
+    "longName": "Vanguard S&P 500 ETF",
+    "regularMarketPrice": 702.46,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Large Blend"
+  },
+  "QQQ": {
+    "quoteType": "ETF",
+    "shortName": "Invesco QQQ Trust, Series 1",
+    "longName": "Invesco QQQ Trust",
+    "regularMarketPrice": 737.93,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Large Growth"
+  },
+  "AAPL": {
+    "quoteType": "EQUITY",
+    "shortName": "Apple Inc.",
+    "longName": "Apple Inc.",
+    "regularMarketPrice": 329.4,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "category": null
+  },
+  "NVDA": {
+    "quoteType": "EQUITY",
+    "shortName": "NVIDIA Corporation",
+    "longName": "NVIDIA Corporation",
+    "regularMarketPrice": 227.21,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "category": null
+  },
+  "IBIT": {
+    "quoteType": "ETF",
+    "shortName": "iShares Bitcoin Trust ETF",
+    "longName": "iShares Bitcoin Trust ETF",
+    "regularMarketPrice": 47.33,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Digital Assets"
+  },
+  "JPM": {
+    "quoteType": "EQUITY",
+    "shortName": "JP Morgan Chase & Co.",
+    "longName": "JPMorgan Chase & Co.",
+    "regularMarketPrice": 334.98,
+    "currency": "USD",
+    "regularMarketTime": 1790712003,
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified",
+    "category": null
+  },
+  "XLK": {
+    "quoteType": "ETF",
+    "shortName": "State Street Technology Select ",
+    "longName": "State Street Technology Select Sector SPDR ETF",
+    "regularMarketPrice": 194.5,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Technology"
+  },
+  "XLF": {
+    "quoteType": "ETF",
+    "shortName": "State Street Financial Select S",
+    "longName": "State Street Financial Select Sector SPDR ETF",
+    "regularMarketPrice": 54.01,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Financial"
+  },
+  "XLV": {
+    "quoteType": "ETF",
+    "shortName": "State Street Health Care Select",
+    "longName": "State Street Health Care Select Sector SPDR ETF",
+    "regularMarketPrice": 170.73,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Health"
+  },
+  "XLY": {
+    "quoteType": "ETF",
+    "shortName": "State Street Consumer Discretio",
+    "longName": "State Street Consumer Discretionary Select Sector SPDR ETF",
+    "regularMarketPrice": 109.15,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Consumer Cyclical"
+  },
+  "XLC": {
+    "quoteType": "ETF",
+    "shortName": "State Street Communication Serv",
+    "longName": "State Street Communication Services Select Sector SPDR ETF",
+    "regularMarketPrice": 111.47,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Communications"
+  },
+  "XLI": {
+    "quoteType": "ETF",
+    "shortName": "State Street Industrial Select ",
+    "longName": "State Street Industrial Select Sector SPDR ETF",
+    "regularMarketPrice": 169.13,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Industrials"
+  },
+  "XLE": {
+    "quoteType": "ETF",
+    "shortName": "State Street Energy Select Sect",
+    "longName": "State Street Energy Select Sector SPDR ETF",
+    "regularMarketPrice": 61.54,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Equity Energy"
+  },
+  "XLB": {
+    "quoteType": "ETF",
+    "shortName": "State Street Materials Select S",
+    "longName": "State Street Materials Select Sector SPDR ETF",
+    "regularMarketPrice": 49.1,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Natural Resources"
+  },
+  "XLP": {
+    "quoteType": "ETF",
+    "shortName": "State Street Consumer Staples S",
+    "longName": "State Street Consumer Staples Select Sector SPDR ETF",
+    "regularMarketPrice": 81.85,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Consumer Defensive"
+  },
+  "XLU": {
+    "quoteType": "ETF",
+    "shortName": "State Street Utilities Select S",
+    "longName": "State Street Utilities Select Sector SPDR ETF",
+    "regularMarketPrice": 39.71,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Utilities"
+  },
+  "XLRE": {
+    "quoteType": "ETF",
+    "shortName": "State Street Real Estate Select",
+    "longName": "State Street Real Estate Select Sector SPDR ETF",
+    "regularMarketPrice": 41.34,
+    "currency": "USD",
+    "regularMarketTime": 1790712000,
+    "sector": null,
+    "industry": null,
+    "category": "Real Estate"
+  }
+}

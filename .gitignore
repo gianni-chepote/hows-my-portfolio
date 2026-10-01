@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.DS_Store
+.venv/
+
+# Design references (third-party screenshots) and working drafts stay local.
+refs/
+brief_v1_original.md
+scratch/app_screens/
+scratch/preview_screens/
+scratch/coverage_raw.json

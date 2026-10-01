@@ -1,0 +1,20 @@
+# No fixed base: Streamlit follows the viewer's system setting (light or dark).
+[theme]
+primaryColor = "#5A54FF"
+font = "Montserrat:https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"
+
+[theme.light]
+backgroundColor = "#F5F4FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#16152E"
+
+[theme.dark]
+backgroundColor = "#07061A"
+secondaryBackgroundColor = "#12112B"
+textColor = "#F4F3FF"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
