@@ -8,7 +8,7 @@ the same tech names, and a direct AAPL position stacks on top of the AAPL
 inside every fund. This app looks through the funds and shows the exposure
 underneath.
 
-**Live app:** _link added after deployment_
+**Live app:** https://hows-my-portfolio.streamlit.app
 
 ![Headline cards, positions, and asset-class donut](docs/overview.jpg)
 
