@@ -12,6 +12,7 @@ from playwright.sync_api import sync_playwright
 APPS = [
     "https://hows-my-portfolio.streamlit.app",
     "https://iul-vs-direct-investing.streamlit.app",
+    "https://revelatio-systematic-funds-ke7fp66vug2kkd6xenrfsw.streamlit.app",
 ]
 WAKE_BUTTON = "button:has-text('get this app back up')"
 APP_ROOT = "[data-testid='stApp']"
